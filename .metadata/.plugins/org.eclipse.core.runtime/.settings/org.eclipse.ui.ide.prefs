@@ -1,4 +1,7 @@
+IMPORT_FILES_AND_FOLDERS_RELATIVE=true
+IMPORT_FILES_AND_FOLDERS_TYPE=23,1
+SWITCH_PERSPECTIVE_ON_PROJECT_CREATION=never
 eclipse.preferences.version=1
-platformState=1694676818917
+platformState=1704689415030
 quickStart=false
 tipsAndTricks=true
